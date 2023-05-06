@@ -1,0 +1,17 @@
+## Project Description
+### Project Introduction:
+This project intends to use various Machine Learning Algorithms to predict the sentiment based on Amazon Alexa feedback received, and to see which algorithm can best predict the attitude.
+
+### Project aim:
+Create classification models to predict the sentiment either (1 or 0) based on Amazon Alexa reviews.
+
+### Dataset:
+https://drive.google.com/file/d/1qBgRI5Vav-uAj-bA5myBwI4zMfnPZgwQ/view?usp=share_link
+
+### Details of features: 
+The columns are described as follows: 
+1.	rating: Product rating 
+2.	Date: date on which the product was rated 
+3.	variation: variation of the product 
+4.	verfified_reviews: the verified reviews for the Alexa
+5.	feedback: 1(Positive) or 0 (Negative)
